@@ -2,10 +2,7 @@
   "posts": [
     {"id": 1, "name": "debabrata bedant", "vehiclenumber": "TS09EE3782"}
   ],
-  "lastid": {
-    "name": 1
-  }
   "profile": {
-    "name": "typicode"
+    "name": "1"
   }
 }
